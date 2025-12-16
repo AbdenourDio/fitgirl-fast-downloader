@@ -1,4 +1,4 @@
-# FitGirl Fast Downloader
+# FitGirl Auto Downloader
 
 > **Educational purposes only.** This project demonstrates targeted automation with Selenium.
 
